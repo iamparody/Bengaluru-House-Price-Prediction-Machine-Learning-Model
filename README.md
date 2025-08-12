@@ -1,4 +1,14 @@
 # House Price Prediction App
+# House Price Prediction App
+
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.0%2B-red)](https://streamlit.io/)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-green.svg)](https://github.com/yourusername/yourrepository/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/yourusername/yourrepository)](https://github.com/yourusername/yourrepository/commits/master)
+
+Welcome to the House Price Prediction App! This application uses a machine learning model to predict house prices based on various input features.
 
 Welcome to the House Price Prediction App! This application uses a machine learning model to predict house prices based on various input features.
 
