@@ -6,7 +6,8 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0%2B-red)](https://streamlit.io/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-green.svg)](https://github.com/yourusername/yourrepository/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/yourusername/yourrepository)](https://github.com/yourusername/yourrepository/commits/master)
+[![Last Commit](https://img.shields.io/github/last-commit/iamparody/Bengaluru-House-Price-Prediction-Machine-Learning-Model)](https://github.com/iamparody/Bengaluru-House-Price-Prediction-Machine-Learning-Model/commits/main)
+
 
 Welcome to the House Price Prediction App! This application uses a machine learning model to predict house prices based on various input features.
 
