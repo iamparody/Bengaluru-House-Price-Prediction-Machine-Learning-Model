@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 import numpy as np
 import json
-
+import pandsas as pd
 # Load model and data columns
 with open("model/bhk.pickle", "rb") as f:
     model = pickle.load(f)
